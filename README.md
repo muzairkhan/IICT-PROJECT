@@ -1,5 +1,6 @@
 # MUHAMMAD UZAIR KHAN 65465
 
 
-Static Website
-StreamLit Website
+#Static Website: 
+
+#StreamLit Website: 
